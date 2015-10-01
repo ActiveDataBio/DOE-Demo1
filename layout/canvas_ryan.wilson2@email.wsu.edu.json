@@ -1,0 +1,20 @@
+{
+  "@type":"gov.pnnl.activedata.data.Canvas",
+  "id":1443736444898,
+  "name":"DOE-Demo1_ryan.wilson2@email.wsu.edu",
+  "creationDate":1443736444898,
+  "lastModifiedDate":1443736444898,
+  "users":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.ADUser",
+        "id":0,
+        "name":"DOE-Demo1_ryan.wilson2@email.wsu.edu"
+      }
+    ]
+  },
+  "userDataNodes":null,
+  "userEdges":null,
+  "groups":null
+}
