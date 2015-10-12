@@ -3,7 +3,7 @@
   "id":1444674487610,
   "name":"DOE-Demo1_coldfire79",
   "creationDate":1444674487610,
-  "lastModifiedDate":1444675533974,
+  "lastModifiedDate":1444675575874,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -31,32 +31,6 @@
         "score":0.0,
         "data":"null;node612;89;43;DOE-Demo1;ActiveDataBio;master",
         "label":"high at night",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444675533974,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":519.5999999999999,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"undefined;PMM0890;DOE-Demo1;ActiveDataBio;master",
-        "label":"pgi",
         "badge":0,
         "sections":null,
         "listValues":null,
