@@ -3,7 +3,7 @@
   "id":1444674487610,
   "name":"DOE-Demo1_coldfire79",
   "creationDate":1444674487610,
-  "lastModifiedDate":1444687941713,
+  "lastModifiedDate":1444688012646,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,12 +25,86 @@
         "x":674.9801997095914,
         "y":389.69999999999993,
         "type":{
+          "@id":2,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
         "score":0.0,
         "data":"null;node612;89;43;DOE-Demo1;ActiveDataBio;master",
         "label":"high at night",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444687957176,
+        "groupId":-1,
+        "isUserData":true,
+        "x":945.5,
+        "y":659.0,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"null;node526;144;66;DOE-Demo1;ActiveDataBio;master",
+        "label":"test",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444687969740,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1424.958199386915,
+        "y":649.4999999999999,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";UREC_PRO;DOE-Demo1;ActiveDataBio;master",
+        "label":"UREC_PRO",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444688012646,
+        "groupId":-1,
+        "isUserData":true,
+        "x":945.5,
+        "y":659.0,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"undefined;PMM0076;DOE-Demo1;ActiveDataBio;master",
+        "label":"pgm",
         "badge":0,
         "sections":null,
         "listValues":null,
