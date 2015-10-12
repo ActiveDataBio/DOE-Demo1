@@ -3,7 +3,7 @@
   "id":1444674487610,
   "name":"DOE-Demo1_coldfire79",
   "creationDate":1444674487610,
-  "lastModifiedDate":1444674613023,
+  "lastModifiedDate":1444675533974,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -45,18 +45,18 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444674557729,
+        "id":1444675533974,
         "groupId":-1,
         "isUserData":true,
-        "x":1274.9625994514504,
-        "y":389.69999999999993,
+        "x":945.5,
+        "y":659.0,
         "type":{
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
-        "data":"undefined;;DOE-Demo1;ActiveDataBio;master",
-        "label":"rpe",
+        "data":"undefined;PMM0890;DOE-Demo1;ActiveDataBio;master",
+        "label":"pgi",
         "badge":0,
         "sections":null,
         "listValues":null,
