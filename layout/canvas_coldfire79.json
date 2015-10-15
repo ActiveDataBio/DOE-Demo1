@@ -3,7 +3,7 @@
   "id":1444674487610,
   "name":"DOE-Demo1_coldfire79",
   "creationDate":1444674487610,
-  "lastModifiedDate":1444951675888,
+  "lastModifiedDate":1444951720365,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -131,6 +131,32 @@
         "score":0.0,
         "data":";33862039;DOE-Demo1;ActiveDataBio;master",
         "label":"rpoC2_mRNA",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444951720365,
+        "groupId":-1,
+        "isUserData":true,
+        "x":895.0,
+        "y":659.0,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"illumina;illumina;DOE-Demo1;ActiveDataBio;master",
+        "label":"pubmed",
         "badge":0,
         "sections":null,
         "listValues":null,
