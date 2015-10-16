@@ -3,7 +3,7 @@
   "id":1444674487610,
   "name":"DOE-Demo1_coldfire79",
   "creationDate":1444674487610,
-  "lastModifiedDate":1444951720365,
+  "lastModifiedDate":1445025259114,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -46,32 +46,6 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444951132970,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1124.9669995159857,
-        "y":909.2999999999998,
-        "type":{
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";pmm00970;node601;DOE-Demo1;ActiveDataBio;master",
-        "label":"pmm00970",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1444951134475,
         "groupId":-1,
         "isUserData":true,
@@ -95,11 +69,11 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444951159442,
+        "id":1445025190458,
         "groupId":-1,
         "isUserData":true,
-        "x":674.9801997095914,
-        "y":909.2999999999998,
+        "x":989.5,
+        "y":637.0,
         "type":{
           "@id":1,
           "name":"PROTEIN",
@@ -122,15 +96,18 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444951675888,
+        "id":1445025210881,
         "groupId":-1,
         "isUserData":true,
-        "x":895.0,
-        "y":659.0,
-        "type":{"@ref":1},
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"PATHWAY",
+          "ordinal":20
+        },
         "score":0.0,
-        "data":";33862039;DOE-Demo1;ActiveDataBio;master",
-        "label":"rpoC2_mRNA",
+        "data":";pmm00240;node601;DOE-Demo1;ActiveDataBio;master",
+        "label":"pmm00240",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -145,18 +122,61 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444951720365,
+        "id":1445025230047,
         "groupId":-1,
         "isUserData":true,
-        "x":224.99339990319714,
-        "y":649.4999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
+        "x":989.5,
+        "y":637.0,
+        "type":{"@ref":2},
         "score":0.0,
-        "data":"illumina;illumina;DOE-Demo1;ActiveDataBio;master",
-        "label":"pubmed",
+        "data":"null;node526;144;66;DOE-Demo1;ActiveDataBio;master",
+        "label":"test",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445025248461,
+        "groupId":-1,
+        "isUserData":true,
+        "x":989.5,
+        "y":637.0,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"undefined;33861434;DOE-Demo1;ActiveDataBio;master",
+        "label":"metH",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445025259114,
+        "groupId":-1,
+        "isUserData":true,
+        "x":989.5,
+        "y":637.0,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"undefined;33862056;DOE-Demo1;ActiveDataBio;master",
+        "label":"LL-diaminopimelate",
         "badge":0,
         "sections":null,
         "listValues":null,
