@@ -48,8 +48,8 @@
         "id":1449510656629,
         "groupId":-1,
         "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
+        "x":960.0,
+        "y":500.0,
         "type":{
           "name":"PATHWAY",
           "ordinal":20
@@ -63,7 +63,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
