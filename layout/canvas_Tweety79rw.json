@@ -25,6 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
+          "@id":9975,
           "name":"PROTEIN",
           "ordinal":17
         },
