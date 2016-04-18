@@ -50,8 +50,8 @@ if (!is.null(refSeqIds)) {
   NAMER=read.csv(args[5],sep=",",header=TRUE)
   
   temp = sub("(.*)\\.\\d+", "\\1", refSeqIds)
-  if (sum(NAMER$refseq %in% temp)>0) {
-    SOURCE = data.frame(refseq=temp)
+  if (sum(NAMER$id %in% temp)>0) {
+    SOURCE = data.frame(id=temp)
   } else if (sum(NAMER$gene %in% temp)>0) {
     SOURCE = data.frame(gene=temp)
   } else {
