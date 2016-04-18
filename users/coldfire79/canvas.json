@@ -1,16 +1,16 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1444674487610,
-  "name":"DOE-Demo1_coldfire79",
-  "creationDate":1444674487610,
-  "lastModifiedDate":1445025259114,
+  "id":1461011983647,
+  "name":"Prochlorococcus_coldfire79",
+  "creationDate":1461011983647,
+  "lastModifiedDate":1461011986387,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.ADUser",
         "id":0,
-        "name":"DOE-Demo1_coldfire79"
+        "name":"Prochlorococcus_coldfire79"
       }
     ]
   },
@@ -19,69 +19,18 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444674541326,
+        "id":1461011986387,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
-        "y":389.69999999999993,
+        "x":1027.5,
+        "y":659.0,
         "type":{
-          "@id":2,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"null;node612;89;43;DOE-Demo1;ActiveDataBio;master",
-        "label":"high at night",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444951134475,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1424.958199386915,
-        "y":389.69999999999993,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"null;node601;47;30;DOE-Demo1;ActiveDataBio;master",
-        "label":"node601",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445025190458,
-        "groupId":-1,
-        "isUserData":true,
-        "x":989.5,
-        "y":637.0,
-        "type":{
-          "@id":1,
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
-        "data":";33862179;DOE-Demo1;ActiveDataBio;master",
-        "label":"ssb_pro",
+        "data":"2332581548e4fa277d039ce0b8823cb5c9e4d128;33861323;Prochlorococcus;ActiveDataBio;master",
+        "label":"33861323",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -90,103 +39,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445025210881,
-        "groupId":-1,
-        "isUserData":true,
-        "x":524.9845997741267,
-        "y":389.69999999999993,
-        "type":{
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";pmm00240;node601;DOE-Demo1;ActiveDataBio;master",
-        "label":"pmm00240",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445025230047,
-        "groupId":-1,
-        "isUserData":true,
-        "x":989.5,
-        "y":637.0,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"null;node526;144;66;DOE-Demo1;ActiveDataBio;master",
-        "label":"test",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445025248461,
-        "groupId":-1,
-        "isUserData":true,
-        "x":989.5,
-        "y":637.0,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"undefined;33861434;DOE-Demo1;ActiveDataBio;master",
-        "label":"metH",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445025259114,
-        "groupId":-1,
-        "isUserData":true,
-        "x":989.5,
-        "y":637.0,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"undefined;33862056;DOE-Demo1;ActiveDataBio;master",
-        "label":"LL-diaminopimelate",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       }
     ]
