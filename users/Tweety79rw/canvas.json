@@ -2,9 +2,22 @@
   "id" : 1483553274498,
   "name" : "Prochlorococcus_Tweety79rw",
   "creationDate" : 1483553274498,
-  "lastModifiedDate" : 1483558197511,
+  "lastModifiedDate" : 1483558208535,
   "users" : [ {
     "name" : "Prochlorococcus_Tweety79rw"
   } ],
-  "userDataNodes" : [ ]
+  "userDataNodes" : [ {
+    "id" : 1483558208535,
+    "groupId" : -1,
+    "x" : 840.0,
+    "y" : 455.5,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "undefined;33861713;Prochlorococcus;ActiveDataBio;master",
+    "label" : "33861713",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  } ]
 }
